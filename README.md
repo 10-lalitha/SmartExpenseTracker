@@ -23,6 +23,27 @@ An Android application developed using Java and XML to help users manage expense
 - Retrofit and REST APIs
 - MPAndroidChart
 - WorkManager
+## App Screenshots
 
+### Login
+![Login Screen](login.jpeg)
+
+### Dashboard
+![Dashboard](dashboard.jpeg)
+
+### Add Expense
+![Add Expense](Add%20Expense.jpeg)
+
+### Analytics
+![Analytics](Analytics.jpeg)
+
+### Monthly Budget
+![Monthly Budget](MonthlyBudget.jpeg)
+
+### Monthly Income
+![Monthly Income](Monthlyincome.jpeg)
+
+### Edit Expense
+![Edit Expense](EditExpense.jpeg)
 ## Developer
 Lalitha A
